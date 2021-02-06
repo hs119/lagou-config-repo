@@ -11,5 +11,5 @@ email:
   port: 25
   auth: true
 brushStroke:
-  time: 10
+  time: 1
   number: 100
