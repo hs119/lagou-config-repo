@@ -7,3 +7,6 @@ spring:
 email:
   from: 2470355141@qq.com
   password: jdxyrcfjtgqmdjib
+  host: smtp.qq.com
+  port: 25
+  auth: true
