@@ -10,3 +10,6 @@ email:
   host: smtp.qq.com
   port: 25
   auth: true
+brushStroke:
+  time: 10
+  number: 100
